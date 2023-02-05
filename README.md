@@ -37,7 +37,7 @@ y \\
 
 - Séparation : les boids cherchent à éviter les collisions avec les autres boids. Cela simule le fait que les oiseaux d'un essaim cherchent à maintenir une certaine distance les uns des autres pour éviter les collisions.
 
-$$\forall v \in V, w_{SA} = \sum_{v \in V}\left(
+$$\forall v \in V, w_{S} = \sum_{v \in V}\left(
 \begin{pmatrix}
 x \\
 y \\
